@@ -1,3 +1,5 @@
 flask
 pywebview
 gunicorn
+pyspeedtest
+apscheduler
