@@ -28,4 +28,4 @@ if __name__ == "__main__":
 	window = webview.create_window("Bandwidth consumption", "http://127.0.0.1:5000/", confirm_close=True)
 	#sys.exit()
 	webview.start()
-	sys.exit()
+	exit(0)
